@@ -14,11 +14,11 @@ Overview of the Project
 
 *****EXPLORATORY DATA ANALYSIS (EDA) on clean_chatgpt reviews Dataset*****
 
-Objective:
+*Objective:*
   To perform EDA using libraries like pandas, numpy and matplotlib or seaborn. Explore the data's characteristics, distributions, correlations,and outliers. 
   Visualize your findings with histograms, scatter plots, and heatmaps to gain insights into the data.
 
-Key Activities:
+*Key Activities:*
  1.Data Loading and Preprocessing:
           Loaded the dataset and converted date columns to appropriate formats.
           Checked for and identified any missing values.
